@@ -1,0 +1,22 @@
+{
+  "name": "nibserve",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/api",
+    "apps/admin",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev --workspace=apps/api",
+    "dev:admin": "npm run dev --workspace=apps/admin",
+    "build:api": "npm run build --workspace=apps/api",
+    "build:admin": "npm run build --workspace=apps/admin",
+    "lint:api": "npm run lint --workspace=apps/api",
+    "lint:admin": "npm run lint --workspace=apps/admin",
+    "lint": "npm run lint:api && npm run lint:admin"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

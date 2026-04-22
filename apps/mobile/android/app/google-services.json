@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "381264833820",
+    "project_id": "nibserve",
+    "storage_bucket": "nibserve.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381264833820:android:fac2c006bccd606dcfded9",
+        "android_client_info": {
+          "package_name": "com.nibnox.nibserve_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgzO7HAgPEykbEzh0AYMJ-S7x45LoxLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381264833820-1isb0t0gndao7g1vs07imvinhmf2gijk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nibnox.nibserveDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381264833820:android:9977590a4089c963cfded9",
+        "android_client_info": {
+          "package_name": "com.nibnox.nibserve_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgzO7HAgPEykbEzh0AYMJ-S7x45LoxLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381264833820-1isb0t0gndao7g1vs07imvinhmf2gijk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nibnox.nibserveDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381264833820:android:a03bdc5ab34e80cacfded9",
+        "android_client_info": {
+          "package_name": "com.nibnox.nibserve_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgzO7HAgPEykbEzh0AYMJ-S7x45LoxLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381264833820-1isb0t0gndao7g1vs07imvinhmf2gijk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nibnox.nibserveDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

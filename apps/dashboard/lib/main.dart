@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const NibServeDashboardApp());
 }
 
@@ -17,7 +23,8 @@ class NibServeDashboardApp extends StatelessWidget {
       ),
       home: const Scaffold(
         body: Center(
-          child: Text('NibServe — Restaurant Dashboard', style: TextStyle(fontSize: 24)),
+          child: Text('NibServe — Restaurant Dashboard',
+              style: TextStyle(fontSize: 24)),
         ),
       ),
     );

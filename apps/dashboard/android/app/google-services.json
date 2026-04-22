@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381264833820",
+    "project_id": "nibserve",
+    "storage_bucket": "nibserve.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381264833820:android:fac2c006bccd606dcfded9",
+        "android_client_info": {
+          "package_name": "com.nibnox.nibserve_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgzO7HAgPEykbEzh0AYMJ-S7x45LoxLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381264833820-j9tljto9iolr96i8g2hv7knkmiihsr4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
